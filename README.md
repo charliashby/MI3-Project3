@@ -8,27 +8,18 @@ Platform: Mac & Rivanna HPC <br />
 ## Section 2: Map of Documentation
 The repository contains a README file (this file), a LICENSE.md file, and three folders: SCRIPTS, DATA, OUTPUT <br />
 
-SCRIPTS:<br />
-1. DS4002_Project3 <br />
 
-DATA: <br />
-1. Data Collection.pdf <br />
-2. Data Appendix.pdf <br />
-
-OUTPUT: <br />
-1. 
-
-# DATA Folder
+### DATA Folder
 
 Data_Appendix.pdf: includes a data dictionary as well as figures and other descriptive statistics  <br />
 
-Obtain_the_Data.pdf: includes instructions on how to access the data sets and prepare them to be read into the analysis scripts 
+Data_Collection.pdf: includes instructions on how to access the data sets and prepare them to be read into the analysis scripts 
 
-# SCRIPTS Folder
+### SCRIPTS Folder
 
 DS_4002_Proj3_ImageAnalysis.ipynb: includes all code use to preprocess, analyze, and visualize results
 
-# OUTPUT Folder
+### OUTPUT Folder
 
 ****TBD*******
 
