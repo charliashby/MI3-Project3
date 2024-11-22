@@ -21,7 +21,7 @@ DS_4002_Proj3_ImageAnalysis.ipynb: includes all code use to preprocess, analyze,
 
 ### OUTPUT Folder
 
-30epochs_output: Accuracy of the model on test data when trained on 30 epochs at 0.0001 learning rate. 
+30epochs_output: Accuracy of the model on test data when trained on 30 epochs at 0.0001 learning rate.  <br />
 50epochs_output: Accuracy of the model on test data when trained on 50 epochs at 0.001 learning rate. 
 
 ## Section 3: Reproduction 
